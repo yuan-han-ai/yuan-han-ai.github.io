@@ -15,14 +15,15 @@ Academic experience
   * Nankai University
 * B.S. in Bio-technology, 2015-2019
   * Nankai University
+* Ph.D in Biostatistics & Health Data Science, 2020-2024 (expected)
+  * Duke-NUS Medical School
 * Research Scholar, 2019-2020
   * Departments of Epidemiology & Biostatistics
   * Harvard University
 * Research Scholar, 2021-2022
   * Department of Quantitative Biomedicine
   * University of Zurich
-* Ph.D in Biostatistics & Health Data Science, 2020-2024 (expected)
-  * Duke-NUS Medical School
+
 
 Work experience
 ======
