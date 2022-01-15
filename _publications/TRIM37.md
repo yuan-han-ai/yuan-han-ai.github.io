@@ -6,7 +6,6 @@ excerpt: ''
 date: 2021-06-15
 venue: 'Journal of Experimental & Clinical Cancer Research'
 paperurl: 'http://yuan-han-ai.github.io/files/TRIM37 orchestrates renal cell carcinoma progression via histone h2a ubiquitination-dependent manner.pdf'
-citation: ''
 ---
 Background
 Ubiquitylation modification is one of the multiple post-transcriptional process to regulate cellular physiology, including cell signaling, cycle regulation, DNA repair and transcriptional regulation. Members of TRIM family proteins could be defined as E3 ubiquitin ligases as they contain a RING-finger domain, and alterations of TRIM proteins are involved into a broad range of diverse disorders including cancer. TRIM37 is a novel discovered E3 ubiquitin ligase and acts as a oncoprotein in multiple human neoplasms, however its biological role in RCC still remains elusive.

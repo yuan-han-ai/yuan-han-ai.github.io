@@ -6,7 +6,6 @@ excerpt: ''
 date: 2021-11-23
 venue: 'Journal of Biomedical Informatics'
 paperurl: 'http://yuan-han-ai.github.io/files/AutoScore-Survival Developing interpretable machine learning-based time-to-event scores with right-censored survival data.pdf'
-citation: ''
 ---
 Background
 Scoring systems are highly interpretable and widely used to evaluate time-to-event outcomes in healthcare research. However, existing time-to-event scores are predominantly created ad-hoc using a few manually selected variables based on clinician's knowledge, suggesting an unmet need for a robust and efficient generic score-generating method.
