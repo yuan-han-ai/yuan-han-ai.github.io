@@ -11,49 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics & Applied Mathematics, Nankai University, 2019
+* B.S. in Bio-technology, Nankai University, 2019
+* Ph.D in Biostatistics & Health Data Science, Duke-NUS Medical School, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Scholar, 2021-2022
+  * Department of Quantitative Biomedicine
+  * University of Zurich
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Scholar, 2019-2020
+  * Departments of Epidemiology & Biostatistics
+  * Harvard University
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Data Analyst Intern, 2019-2020
+  * Channing Division of Network Medicine
+  * Brigham Health
+
+* Data Analyst Intern, 2017-2018
+  * Division of Macroeconomic Research
+  * Founder Securities
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, 2016-2017
+  * Nankai Econ-China Association
+  * Nankai University
+
+* Teaching Volunteer, 2015-2016
+  * Tianjin Yongji Primary School
