@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Academic experience
+Academic Experience
 ======
 * B.S. in Mathematics & Applied Mathematics, 2016-2019
   * Nankai University
@@ -25,7 +25,7 @@ Academic experience
   * University of Zurich
 
 
-Work experience
+Work Experience
 ======
 * Data Analyst Intern, 2019-2020
   * Channing Division of Network Medicine
@@ -45,7 +45,7 @@ Work experience
   * Chongqing Children’s Hospital
   * Emergency Center of Tianjin Province
 
-Service and leadership
+Service and Leadership
 ======
 * President, 2016-2017
   * Nankai Econ-China Association
@@ -54,7 +54,7 @@ Service and leadership
 * Teaching Volunteer, 2015-2016
   * Tianjin Yongji Primary School
 
-Honors and awards
+Honors and Awards
 ======
 * Khoo Pre-Doctoral Fellowship, 2020 & 2021
   * Duke-NUS Medical School
