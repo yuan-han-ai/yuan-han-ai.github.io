@@ -2,7 +2,7 @@
 title: "Deep learning for temporal data representation in electronic health records: A systematic review of challenges and methodologies"
 collection: publications
 permalink: /publication/Temporal-data-review
-excerpt: 'We searched five databases (PubMed, Embase, the Institute of Electrical and Electronics Engineers [IEEE] Xplore Digital Library, the Association for Computing Machinery [ACM] Digital Library, and Web of Science) complemented with hand-searching in several prestigious computer science conference proceedings. We sought articles that reported deep learning methodologies on temporal data representation in structured EHR data from January 1, 2010, to August 30, 2020. We summarized and analyzed the selected articles from three perspectives: nature of time series, methodology, and model implementation.'
+excerpt: ''
 date: 2021-12-30
 venue: 'Journal of Biomedical Informatics'
 paperurl: 'http://yuan-han-ai.github.io/files/Deep learning for temporal data representation in electronic health records A systematic review of challenges and methodologies.pdf'
