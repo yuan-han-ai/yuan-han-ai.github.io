@@ -2,6 +2,7 @@
 title: "TRIM37 orchestrates renal cell carcinoma progression via histone H2A ubiquitination-dependent manner"
 collection: publications
 permalink: /publication/TRIM37
+excerpt: ''
 date: 2021-06-15
 venue: 'Journal of Experimental & Clinical Cancer Research'
 paperurl: 'http://yuan-han-ai.github.io/files/TRIM37 orchestrates renal cell carcinoma progression via histone h2a ubiquitination-dependent manner.pdf'
