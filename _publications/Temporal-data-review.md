@@ -6,6 +6,7 @@ excerpt: ''
 date: 2021-12-30
 venue: 'Journal of Biomedical Informatics'
 paperurl: 'http://yuan-han-ai.github.io/files/Deep learning for temporal data representation in electronic health records A systematic review of challenges and methodologies.pdf'
+citation: ''
 ---
 Objective
 Temporal electronic health records (EHRs) contain a wealth of information for secondary uses, such as clinical events prediction and chronic disease management. However, challenges exist for temporal data representation. We therefore sought to identify these challenges and evaluate novel methodologies for addressing them through a systematic examination of deep learning solutions.
