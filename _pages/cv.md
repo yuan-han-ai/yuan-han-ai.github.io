@@ -9,22 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic experience
 ======
-* B.S. in Mathematics & Applied Mathematics, Nankai University, 2019
-* B.S. in Bio-technology, Nankai University, 2019
-* Ph.D in Biostatistics & Health Data Science, Duke-NUS Medical School, 2024 (expected)
-
-Work experience
-======
-* Research Scholar, 2021-2022
-  * Department of Quantitative Biomedicine
-  * University of Zurich
-
+* B.S. in Mathematics & Applied Mathematics, 2016-2019
+  * Nankai University
+* B.S. in Bio-technology, 2015-2019
+  * Nankai University
 * Research Scholar, 2019-2020
   * Departments of Epidemiology & Biostatistics
   * Harvard University
+* Research Scholar, 2021-2022
+  * Department of Quantitative Biomedicine
+  * University of Zurich
+* Ph.D in Biostatistics & Health Data Science, 2020-2024 (expected)
+  * Duke-NUS Medical School
 
+Work experience
+======
 * Data Analyst Intern, 2019-2020
   * Channing Division of Network Medicine
   * Brigham Health
@@ -32,6 +33,12 @@ Work experience
 * Data Analyst Intern, 2017-2018
   * Division of Macroeconomic Research
   * Founder Securities
+
+* Project Participant, 2017-2019
+  * Nankai University
+  * Tianjin University of Traditional Chinese Medicine
+  * Chongqing Children’s Hospital
+  * Emergency Center of Tianjin Province
 
 Service and leadership
 ======
@@ -41,3 +48,20 @@ Service and leadership
 
 * Teaching Volunteer, 2015-2016
   * Tianjin Yongji Primary School
+
+Honors and awards
+======
+* Khoo Pre-Doctoral Fellowship, 2020 & 2021
+  * Duke-NUS Medical School
+
+* Merit Graduate (Top 5% Graduates), 2019
+  * Nankai University
+
+* The Third Prize of Undergraduate Scientific Research & Innovation (Top 20% Groups), 2018
+  * Tianjin Municipal Education Commission
+
+* The First Prize of Excellent Undergraduate Scholarship (Top 5% Students), 2016 & 2017
+  * Nankai University
+
+* Merit Student (Top 10% Students), 2016
+  * Nankai University
