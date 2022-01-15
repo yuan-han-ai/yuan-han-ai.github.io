@@ -5,7 +5,7 @@ permalink: /publication/AutoScore-Survival
 excerpt: 'AutoScore was previously developed as an interpretable machine learning score generator, integrating both machine learning and point-based scores in the strong discriminability and accessibility. We have further extended it to the time-to-event outcomes and developed AutoScore-Survival, for generating time-to-event scores with right-censored survival data. Random survival forest provided an efficient solution for selecting variables, and Cox regression was used for score weighting. We implemented our proposed method as an R package. We illustrated our method in a study of 90-day survival prediction for patients in intensive care units and compared its performance with other survival models, the random survival forest, and two traditional clinical scores.'
 date: 2021-11-23
 venue: 'Journal of Biomedical Informatics'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1532046421002884'
+paperurl: 'http://yuan-han-ai.github.io/files/AutoScore-Survival Developing interpretable machine learning-based time-to-event scores with right-censored survival data.pdf'
 ---
 Background
 Scoring systems are highly interpretable and widely used to evaluate time-to-event outcomes in healthcare research. However, existing time-to-event scores are predominantly created ad-hoc using a few manually selected variables based on clinician's knowledge, suggesting an unmet need for a robust and efficient generic score-generating method.
