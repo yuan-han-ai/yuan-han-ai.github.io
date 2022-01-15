@@ -2,7 +2,6 @@
 title: "TRIM37 orchestrates renal cell carcinoma progression via histone H2A ubiquitination-dependent manner"
 collection: publications
 permalink: /publication/TRIM37
-excerpt: 'RCC microarray chips and public datasets were screened to identify novel TRIMs member as TRIM37, which was dysregulated in RCC. Gain or loss of functional cancer cell models were constructed, and in vitro and in vivo assays were performed to elucidate its tumorigenic phenotypes. Interactive network analyses were utilized to define intrinsic mechanism.'
 date: 2021-06-15
 venue: 'Journal of Experimental & Clinical Cancer Research'
 paperurl: 'http://yuan-han-ai.github.io/files/TRIM37 orchestrates renal cell carcinoma progression via histone h2a ubiquitination-dependent manner.pdf'
