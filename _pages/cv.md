@@ -35,6 +35,10 @@ Work experience
   * Division of Macroeconomic Research
   * Founder Securities
 
+* Businesss Analyst Intern, 2016-2017
+  * Branch of Jiangsu Province
+  * Bank of China
+
 * Project Participant, 2017-2019
   * Nankai University
   * Tianjin University of Traditional Chinese Medicine
