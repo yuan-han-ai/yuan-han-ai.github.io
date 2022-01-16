@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Han Yuan Account"
+  name             : "Han Yuan (袁涵)"
   avatar           : "Han.png"
   bio              : "Ph.D. Student at Duke-NUS Medical School"
   location         : "Singapore/Zurich/Boston/Tianjin"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=MKjp730AAAAJ"
-  email            :
+  email            : "yuan.han@u.duke.nus.edu"
   researchgate     : "https://www.researchgate.net/profile/Han-Yuan-6"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/han-y-281864130/"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/Yuan_Han_"
   vine             :
   weibo            :
   xing             :
