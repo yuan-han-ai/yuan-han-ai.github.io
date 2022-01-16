@@ -12,4 +12,4 @@ Hi! I am Han, a Ph.D. student at [Duke-NUS Medical School](https://www.duke-nus.
 
 My current research interests focus on [Interpretable Machine Learning and Automated Machine Learning (AutoML) in Healthcare](publications). I am widely interested in understanding the logic behind "black box" ML models and how to automate the whole process of ML from data collection to model deployment.
 
-I am always happy to try bubble tea of different brands. Whether looking for a research collaborator or bubble tea partner, do not hesitate to email me at yuan.han@u.duke.nus.edu
+I am always happy to try different milk tea brands and flavors. Whether looking for a research collaborator or milk tea partner, do not hesitate to email me at yuan.han@u.duke.nus.edu
