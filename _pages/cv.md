@@ -27,6 +27,10 @@ Academic Experience
 
 Work Experience
 ======
+* Data Analyst Intern, 2021-2022
+  * Comprehensive Cancer Center Zurich (CCCZ)
+  * University Hospital Zurich
+
 * Data Analyst Intern, 2019-2020
   * Channing Division of Network Medicine
   * Brigham Health
